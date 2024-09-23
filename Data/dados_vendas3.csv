@@ -1,0 +1,94 @@
+1;Corte Masculino;Cabelo;159;92;132;1,2;4.835,00;36,63;19,79%
+2;Manicure e Pedicure;Mãos e Pés;66;55.0;66.0;1;2.966,00;44,94;12,14%
+3;Escova Progressiva;Cabelo;15;15.0;15.0;1;2.710,00;180,67;11,09%
+4;Corte a Máquina;Cabelo;76;56.0;74.0;1,03;1.910,00;25,81;7,82%
+5;Corte Feminino;Cabelo;29;24.0;26.0;1,12;1.395,00;53,65;5,71%
+6;Manicure;Mãos e Pés;56;50.0;55.0;1,02;1.350,00;24,55;5,53%
+7;Retoque de raiz;Cabelo;21;16.0;19.0;1,11;1.197,50;63,03;4,90%
+8;Pedicure;Mãos e Pés;35;34.0;35.0;1;945;27;3,87%
+9;Escova Simples;Cabelo;11;9.0;10.0;1,1;685;68,5;2,80%
+10;Escova Botox;Cabelo;5;5.0;5.0;1;630;126;2,58%
+11;Barba Modelada;Barba e Bigode;19;17.0;19.0;1;490;25,79;2,01%
+12;Sobrancelha na Cera;Sobrancelha;13;13.0;13.0;1;455;35;1,86%
+13;Reconstrução Capilar;Cabelo;3;3.0;3.0;1;430;143,33;1,76%
+14;Limpeza de Pele;Estética Facial;4;4.0;4.0;1;400;100;1,64%
+15;Micropigmentação;Maquiagem;1;1.0;1.0;1;400;400;1,64%
+16;Manutenção Cílios (20) dias;Cílios;3;3.0;3.0;1;320;106,67;1,31%
+17;Pintura Sobrancelhas - Henna;Sobrancelha;7;6.0;7.0;1;315;45;1,29%
+18;Blindagem;Meus serviços;6;6.0;6.0;1;313;52,17;1,28%
+19;Extensão de cílios;Cílios;2;2.0;2.0;1;310;155;1,27%
+20;Sobrancelha na Pinça;Sobrancelha;9;9.0;9.0;1;285;31,67;1,17%
+21;Hidratação e Escova (Biofios);Cabelo;2;1.0;2.0;1;240;120;0,98%
+22;Luzes Completo;Cabelo;1;1.0;1.0;1;200;200;0,82%
+23;Nutrição;Cabelo;2;2.0;2.0;1;180;90;0,74%
+24;Depilação Tricotomia;Depilação;3;3.0;3.0;1;180;60;0,74%
+25;Spa dos Pés;Mãos e Pés;3;3.0;3.0;1;175;58,33;0,72%
+26;Barba Tradicional;Barba e Bigode;9;9.0;9.0;1;165;18,33;0,68%
+27;Hidratação;Cabelo;3;3.0;3.0;1;160;53,33;0,65%
+28;Massagem Relaxante;Estética Corporal;2;2.0;2.0;1;160;80;0,65%
+29;Unha de Acrigel - Colocação;Mãos e Pés - Unhas Artificiais;1;1.0;1.0;1;120;120;0,49%
+30;Unha de Gel - Colocação;Mãos e Pés - Unhas Artificiais;2;2.0;2.0;1;100;50;0,41%
+31;Barba;Barba e Bigode;4;4.0;4.0;1;80;20;0,33%
+32;Depilação de Buço;Depilação;3;3.0;3.0;1;75;25;0,31%
+33;Sobrancelha com Linha;Sobrancelha;2;2.0;2.0;1;70;35;0,29%
+34;Depilação de Buço com Linha;Depilação;2;2.0;2.0;1;50;25;0,20%
+35;Unhas Postiças - Colocação;Mãos e Pés - Unhas Artificiais;1;1.0;1.0;1;50;50;0,20%
+36;Manutenção Gel - Avulsa;Mãos e Pés - Unhas Artificiais;1;1.0;1.0;1;50;50;0,20%
+37;Depilação de Queixo;Depilação;1;1.0;1.0;1;20;20;0,08%
+38;Depilação de Queixo com Linha;Depilação;1;1.0;1.0;1;15;15;0,06%
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+Evolução dos serviços em relação aos períodos consultados;;;;;;;;;
+Serviço;Total R$ - Período 01/06/2024 a 30/06/2024;Total R$ - Período 01/07/2024 a 31/07/2024;Evolução(%);;;;;;
+Luzes Completo;200;1.280,00;540,00%;;;;;;
+Extensão de cílios;310;770;148,39%;;;;;;
+Blindagem;313;690;120,45%;;;;;;
+Sobrancelha com Linha;70;140;100,00%;;;;;;
+Depilação de Buço com Linha;50;100;100,00%;;;;;;
+Corte Navalhado;0;535;100,00%;;;;;;
+Coloração da Casa (Biofios);0;470;100,00%;;;;;;
+Sobrancelha Navalha;0;140;100,00%;;;;;;
+Unha de Fibra de Vidro - Colocação;0;130;100,00%;;;;;;
+Depilação de Meia Perna;0;45;100,00%;;;;;;
+Depilação de Rosto Feminino;0;45;100,00%;;;;;;
+Depilação de Nariz;0;40;100,00%;;;;;;
+Depilação de Nádegas;0;30;100,00%;;;;;;
+Design de Sobrancelha;0;30;100,00%;;;;;;
+Depilação de Axilas;0;25;100,00%;;;;;;
+Hidratação e Escova (Biofios);240;420;75,00%;;;;;;
+Depilação de Queixo;20;35;75,00%;;;;;;
+Barba;80;120;50,00%;;;;;;
+Corte Feminino;1.395,00;2.090,00;49,82%;;;;;;
+Escova Simples;685;1.000,00;45,99%;;;;;;
+Limpeza de Pele;400;550;37,50%;;;;;;
+Unha de Acrigel - Colocação;120;142;18,33%;;;;;;
+Barba Tradicional;165;190;15,15%;;;;;;
+Sobrancelha na Cera;455;490;7,69%;;;;;;
+Barba Modelada;490;525;7,14%;;;;;;
+Manutenção Cílios (20) dias;320;320;0,00%;;;;;;
+Unhas Postiças - Colocação;50;50;0,00%;;;;;;
+Corte Masculino;4.835,00;4.590,00;-5,07%;;;;;;
+Manicure e Pedicure;2.966,00;2.757,00;-7,05%;;;;;;
+Corte a Máquina;1.910,00;1.500,00;-21,47%;;;;;;
+Pedicure;945;738;-21,90%;;;;;;
+Manicure;1.350,00;1.045,00;-22,59%;;;;;;
+Depilação Tricotomia;180;130;-27,78%;;;;;;
+Nutrição;180;120;-33,33%;;;;;;
+Sobrancelha na Pinça;285;185;-35,09%;;;;;;
+Escova Progressiva;2.710,00;1.735,00;-35,98%;;;;;;
+Escova Botox;630;390;-38,10%;;;;;;
+Depilação de Buço;75;45;-40,00%;;;;;;
+Reconstrução Capilar;430;240;-44,19%;;;;;;
+Retoque de raiz;1.197,50;450;-62,42%;;;;;;
+Hidratação;160;60;-62,50%;;;;;;
+Pintura Sobrancelhas - Henna;315;70;-77,78%;;;;;;
+Micropigmentação;400;0;-100,00%;;;;;;
+Spa dos Pés;175;0;-100,00%;;;;;;
+Massagem Relaxante;160;0;-100,00%;;;;;;
+Unha de Gel - Colocação;100;0;-100,00%;;;;;;
+Manutenção Gel - Avulsa;50;0;-100,00%;;;;;;
+Depilação de Queixo com Linha;15;0;-100,00%;;;;;;
+Total;24.431,50;24.457,00;0,10%;;;;;;
